@@ -3,7 +3,7 @@ Prefix,first_name,last_name,Suffix,Title,Professional_Affiliation,NSF_Profession
 ,Nancy,Jewett,,Research Associate ,,Other,Other,
 Mr,Mark,Bartleman,,Mr,,,,
 Ms,Barbara,Widger,,,,,,
-,Letitia,Noel,,,,Arts / Entertainment,Citizen,
+,Letitia,Noel,,,,Arts / Entertainment,Citizen,NOTABLE
 "",Shanna ,Smith ,"","","","","","",""
 Ms.,M,Langelan,,Ms,,Other,Educator,
 Dr.,Vicki A,Lancaster,,Retired,,,,,
@@ -17,7 +17,7 @@ Mrs.,Carolyn,Barthel,,,,,,,
 ,Teri,Mills,,,Nurse,Healthcare,Physician / Nurse / HCP,
 Dr,Henry,Kahn,MD,Dr,,Healthcare,Physician / Nurse / HCP,
 Mr,Derek,Meyer,,,,,,
-Dr.,Rona,Fried,Ph.D. ,CEO,,Publishing,Journalist / Author,
+Dr.,Rona,Fried,Ph.D. ,CEO,,Publishing,Journalist / Author,NOTABLE
 ,Abby,Jones,,,,Non-Profit,Other,
 Mrs,Pamela,Hettinger,,,,,Healthcare,,
 Ms,Jessica,Wilson,,,,Other,Citizen,
@@ -38,7 +38,7 @@ Mr.,Russell,Adams,,,,Union,Citizen,
 Mr,Todd ,Bernier ,,,,Industry,,
 ,Richard,Fochtmann,,,,,,
 "",Allyson,Matwey,"","","","","","",""
-,Ronald,Gremban,,,SAE,Industry,Citizen,
+,Ronald,Gremban,,,SAE,Industry,Citizen,NOTABLE
 Ms.,Janet,Falcone,,Ms.,,Other,Citizen,
 Dr,Lori,McConnell,DPT,,,Other,Citizen,
 Ms,Linda,Mank,,,,Public Science,,
