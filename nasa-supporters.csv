@@ -159,7 +159,7 @@ Dr,Jack,Kelly,Ph.D.,Retired,,Public Science,Scientist,
 Mr.,Travis,Richardson,,,,Government,Citizen,
 ,Amber,Richardson,"MOT, OTR/L, CHES, OMS",,,Healthcare,,
 ,Randy,Abraham,,,,Other,,
-Dr. ,John,Quackenbush,"Dr. John Quackenbush, PhD, Member of the National Academy of Medicine, Henry Pickering Walcott Professor of Computational Biology and Bioinformatics, and Chair, Department of Biostatistics, Harvard T.H. Chan School of Public Health","Professor of Computational Biology and Bioinformatics, Department of Biostatistics",Harvard T.H. Chan School of Public Health,Academia,Scientist,
+Dr.,John,Quackenbush,PhD,,Member of the National Academy of Medicine,,Academia,Scientist,
 ,Caroline,Conway,,Clinical Research Specialist,,,,
 Mr. ,Silvino,Teodoro,,Mr.,,,,
 ,Alex,Stewart,,,,Industry,Scientist,
@@ -173,7 +173,7 @@ Ms.,Kathryn,Adams,,,,Other,,
 Dr.,Maya,Doyle,MSW/PhD,Professor,Quinnipiac University,Academia,Educator,
 Ms,Angela,Thomson,,,,,,
 "",Carol ,Fortman ,"","","","","",""
-9197791015,Dawn,Chasse,,Research Analyst,,Academia,Citizen,
+,Dawn,Chasse,,Research Analyst,,Academia,Citizen,
 "",Elizabeth,Cady,"","","","","",""
 Dr.,Jamie,Siders,Ph.D.,Associate Professor of Biology,,Academia,Scientist,
 ,Sarah,Steinhardt,,,Daughter of Manhattan Project scientist WW2,Academia,Citizen,
@@ -211,7 +211,6 @@ Mr,Gary,Mastenbrook,,Engineer,,Industry,Scientist,
 Dr. ,Matthew,Greenwolfe,Phd,Dr.,,Academia,Educator,
 "",Jennifer A,Bridges,"","","","","",""
 ,Greg,Hartley,,,,Industry,Other,
-,Admin,SUFS,,"",,,,""
 "",Krianri,Rao,"","","","","",""
 "",Manuel,Pena,"","","","","",""
 Mr.,Ralph,Cousins,,,,,,
