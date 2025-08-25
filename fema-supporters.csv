@@ -1,10 +1,12 @@
 Prefix,first_name,last_name,Suffix,Title,FEMA_Individual_Affiliation,FEMA_Professional_Category,FEMA_Professional_Position
-,Miriam,Bassi,,Former USAID Diplomat,,Non-Profit,Activist,
-"",Vincent,Vertuccio,"","","","","",""
-,Thom,Kennon,,Adjunct Professor,New York University,Academia,Educator,
-,Sandy,Klein,,Artist,,Arts / Entertainment,Activist,
-,Brynn,Paulsen,M.A.,,,Academia,Student,
-Dr. ,Brian,Lovett,,Insect Pathologist,Cornell University,Academia,Scientist,
-Dr. ,Nickole,Moon,PhD,,University of Colorado Anschutz Medical Campus,Academia,Student,
-,Jessika,Jackson,,Citizen ,Spelman College,Non-Profit,Citizen,
-"",Stephen,King,"","","","","",""
+,Miriam,Bassi,,Former USAID Diplomat,,Non-Profit,Activist
+,Vincent,Vertuccio,"","","","",""
+,Thom,Kennon,,Adjunct Professor,New York University,Academia,Educator
+,Sandy,Klein,,Artist,,Arts / Entertainment,Activist
+,Brynn,Paulsen,M.A.,,,Academia,Student
+,Vanessa,Serna,,"",,,
+,Michael,Pasqua,,Life Scientist,,,
+Dr. ,Brian,Lovett,,Insect Pathologist,Cornell University,Academia,Scientist
+Dr. ,Nickole,Moon,PhD,,University of Colorado Anschutz Medical Campus,Academia,Student
+,Jessika,Jackson,,Citizen ,Spelman College,Non-Profit,Citizen
+,Stephen,King,"","","","",""
