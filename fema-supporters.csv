@@ -1,67 +1,98 @@
 Prefix,first_name,last_name,Suffix,Title,FEMA_Individual_Affiliation,FEMA_Professional_Category,FEMA_Professional_Position
 Ms.,Patricia,Michaels,,Ms.,,,
 Dr.,Eleanor,Weisman,PHD,Professor Emeritus,,,
+Mrs,Rima,Parker,,,,,
 Ms,M,Langelan,,Ms,,,
 Ms.,Jessica,McGeary,,Network operations manager,,,
 Ms,Mary-Helen,Sullivan,Ms.,Ms,,,
+Dr.,Vicki A,Lancaster,,Retired,,,
+Ms.,Barbara,Joye,,,,,
 Ms.,Susan,Garrett,,Ms,,,
+Ms.,Toniann,Reading,,ms,,,
 Mr.,Mitchell,Dormont,,,,,
 Mrs.,Dorothy,Muir,,Mrs,,,
 Ms.,Patty,Shepard,,,,,
 Mr.,Frank,Garcia,,,,,
 Ms.,Sybil ,Schlesinger ,PHD,Ms.,US citizen ,,
+,Christine ,Sheppard ,,Ms,,,
+Ms.,Elizabeth,Fox,,,,,
 ,The,Lorax,,Speaker for the Trees,,,
 Ms.,Mary,Gill,,,,,
 Dr.,John,Dziak,Ph.D.,Senior research specialist,,,
 Mr,Derek,Meyer,,,,,
 Ms.,Max,Gordon,,,,,
+Ms.,Eileen,O'CONNOR,,,,,
 Mr.,Frank,Wissler,,,,,
+Dr.,Andrew,Goldberg,PhD,Professor,,,
 Dr.,Teresa,Secules,,,,,
 "",Richard ,Wallick ,"","","","",""
 "",Camille,Buckner,"","","","",""
 Mr.,Lance,Bogash,,,,,
+Dr.,Elizabeth,Bowen,,Associate Professor,University at Buffalo,,
 ,Roberta,Bennett,PhD,,,,
 "",Gail,Ortega,"","","","",""
 Ms,Penny,Howell,,Ms,,,
+Mr,Mike,Benson,,,,,
+Mrs.,Jennifer,Dawson,,,,,
+Ms.,Meghan,Rodela,,Ms.,,,
+"",Kelly,Barnhill,"","","","",""
 ,Douglas ,Smithman ,PE,President ,EMP Engineering Services,,
 "",Nathan,Bahr,"","","","",""
 ,Peter,Eriksson,PhD,,,,
+Dr.,Susan,Randolph,PHD,Associate Professor Emerita,,,
 Dr.,Vincent,Silenzio,"MD, MPH",Professor,Rutgers University,,
 Dr,Clark,Quinn,Ph.D.,Executive Director,,,
 Mr,Karl ,Keener ,,Mr,,,
 Mr,Kris ,Pagenkopf ,,,,,
+Dr,Peter,Barnett,"MD, MPH","MD, MPH",,,
 Mrs,Karen,Morris,,,,,
 "",Sabra,Kurth,"","","","",""
+Ms.,Mary,Padgett,,Ms.,,,
+Mr.,Michael,Branham,,,,,
 Ms.,Laura,Ferré ,,,,,
 Mr,Kenneth,Hardy,,,,,
 Mrs,Amy,McElroy,,,,,
+Professor,Peter,Mundy,,,,,
 Dr.,Pedro,de la Torre,III,,,,
 Dr.,Jaime,McCauley,,Associate Professor,,,
 Dr,Harry,Hochheiser,PhD,Professor,University of Pittsburgh,,
+"",Donna,Kelky,"","","","",""
 Dr.,Elizabeth,Kirby,PhD,Associate Professor ,Ohio State University,,
 Dr., Kaye,Edwards,PhD,Emérita Assoc Professor ,Haverford College,,
 ,Allyn,Bloom,,,,,
+Mr,Simon,Paddock,,,,,
 Mrs.,Terri,Ryan,,,,,
+Ms,Janet ,Howe,,,Retired ,,
 ,Melanie,Thompson,MD,,,,
+Dr.,Suzy,Scherf,,Professor of Psychology,,,
 "",mary,kettley,"","","","",""
+Dr.,Suzanne,Willis,PhD,Dr,,,
 ,Emily,Rude,"APRN, FNP-C",CNP,,,
 Ms,Judith ,Wickman,,,,,
+Dr,Vanessa,Routh,,,,,
 "",Rebekah ,W,"","","","",""
+"",Cindy,Chapman,"","","","",""
 Mrs,Kimber,Moore,,,Retired,,
 ,Lynn,Lavelle,,Ms.,,,
+Ms. ,Meriah,Gille,"MSHI, CHCIO",,,,
 ,Kirsten,Held,,Mrs.,,,
 Dr.,Jon,Hauxwell,MD,retired,,,
 Ms.,Joy,Scrogum,,,,,
 Ms.,Susan,Preiss,,,,,
+,Raymond,Dye,PhD,Emeritus Professor,Loyola University Chicago,,
 "",Lew,Serviss,"","","","",""
 "",Anna,Bushnell,"","","","",""
+,Linda,Bird,,Mrs,,,
 Ms,Karen,Donnelly,,Ms,,,
 Ms,Katherine,Hinton-Rosenberg,,,,,
 Dr.,Keith,McNamara,PhD,,,,
+Ms.,Erin,Damron,,,,,
 Mrs.,Raymonda,Schwartz,,,,,
 Mr. ,Michael,Fritz,,,,,
 Dr.,Linda,Prine,,,,,
+Mr.,Steven,Beck,MUP,City Planner,AFSCME ,,
 "",Mary Lou,Kallin,"","","","",""
+Dr,Ari,Berkowitz,,Professor ,University of Oklahoma,,
 Mr.,Robert,Michaelson,Ph.D.,,,,
 "",Stephanie,Ramer,"","","","",""
 Mr.,Michael,Griffin,,,,,
@@ -75,28 +106,41 @@ Ms,Shelley,Schanfield,,,Retired,,
 "",Carol,Wilson,"","","","",""
 Dr,Jed ,Fuhrman ,PhD,McCulloch Crosby Chair of Marine Biology,USC,,
 ,Hoshaiah,Barczynski,,Remedial Project Manager,,,
+"",Traci,Mumm,"","","","",""
 "",Cheryl ,Finnegan ,"","","","",""
+"",Kenny,Stancil,"","","","",""
 Dr. ,Matthew,Patterson,Ph.D.,,,,
 "",Stephanie,Riley,"","","","",""
 ,Lilian,Perez,PhD,,,,
 Dr.,Theresa,Kim,"PhD, MS",Bethesda Declaration Signer,NIH,,
+"",Holly,Simpson,"","","","",""
 Ms.,Theresa,Milstein ,,,,,
+Ms.,Suzanne,Haraburd,,Ms.,,,
 ,Debi,Riggs Shaw,,,"Former ARC volunteer in New Orleans during Oct, 2005",,
 Mrs,Campsie,Grothendieck,,,,,
 Dr.,Susan,Brennan,,,,,
 Ms,Kimberly,Ditz,,,,,
 Dr,Clare,Venus,PhD,Clinical Psychologist,,,
+Ms.,Ruth,Kahn,,,,,
 "",Gina,Lewin,"","","","",""
 Ms,Christa,Velbel,,,Citizen,,
 ,Heidi,Reinberg,,Documentary Producer,Necessary Pictures,,
+,Stuart,Tribble,Retired,Retired,SPEEA,,
 "",Deidre,Rector,"","","","",""
 Dr,Beth,McClellan ,,Professor Emerita,Radford University ,,
 "",Robert,Sullivan,"","","","",""
+Mr.,Robert,Vincent,,Mr.,,,
+Dr,Scott,Pasichow,MD MPH,,,,
+Dr. ,Ann,Bauer,,Researcher,,,
 ms,Emily,Ravits,,,,,
 Mrs,Randi,Young,,,,,
 Dr,Bettina,Vaello,,,,,
 Dr.,Susan Bentley,Susan Bentley,"MD, PhD",,,,
+Professor,Margaret,Levi,PhD,Emerita Director of the Center for Advanced Study in Behavioral Science,Stanford University,,
+Mr,Dave,Van Manen,,,,,
+Mr,Mark,Klitzke,,,,,
 Dr,David,Bercovici,PhD,Professor ,Yale University ,,
+Mrs,Patricia,Lupien,,,,,
 ,Thomas,Jenkins,EMPA,,AFSCME Local 3241,,
 Ms,Jodi,Lorimer,,Ms,concerned citizen,,
 Mrs.,Julie,Betts,,,,,
@@ -111,16 +155,22 @@ Mr.,Dwight,Miller,,Mr.,,,
 "",Kyle,Henry,"","","","",""
 Prof,Frederick,Sigworth,PhD,Prof,Yale University,,
 Dr. ,Samantha,Montano,,Associate Professor of Emergency Management ,Massachusetts Maritime Academy,,
+Mr.,Marc,Smith,,"Retired State Executive Director, USDA Farm Service Agency",,,
 Mr.,Anthony,Perry,Mr.,Mr.,,,
 "",TRK,Corbett,"","","","",""
 ,matthew,phelan,,,,,
 "",MELODY,LAPIER,"","","","",""
+,HOLLIS,MCCOLLUM,,,Fantasy Author,,
 Ms.,Susan,Brombacher,,,,,
 Dr.,Andrew,Richman,EdD,Dr.,,,
 ,Christopher,Seery,"MPH, REHS/RS",,,,
+Ms.,Cele,Hanzel,,,,,
+Ms,Naomi,Coll,MPH,,,,
+Dr,Kenneth,Irvine,,,,,
 Ms,Naomi,Bailis,,Ms. ,,,
 Ms.,Dale ,Simmons ,,,,,
 ,Deborah,Herman,PhD,,,,
+Mr. ,Jonathan,Marcantel,,,,,
 ,Allyson Ross,Davies,PhD,,,,
 Dr.,Gabrielle,de Courten Myers,MD,Professor emerita,,,
 Dr.,George,Retsch-Bogart,M.D.,Emeritus Professor of Pediatrics,University of North Carolina at Chapel Hill,,
@@ -130,19 +180,40 @@ Dr.,George,Retsch-Bogart,M.D.,Emeritus Professor of Pediatrics,University of Nor
 Dr,Brian,Redmond,PhD,,,,
 "",Daniel,Dykes,"","","","",""
 Dr,Tobias,Baskin,,Professor,,,
+Mr. ,Todd,Miller,,,,,
 "",Pat,Kahn,"","","","",""
 ,Mary Beth,Van Dine,RN,,,,
+Dr.,Karin,Velez,,,,,
+Mrs,Joyce,Edwards,,,,,
 The Rev.,Jerry,Rankin,,,,,
+Dr,Evon,Hekkala,,Professor,,,
 "",Amy,Leventhal,"","","","",""
+,John,Cummings,,Mass Care Coordinator,,,
+Ms,Mary,Perry,,,,,
 ,Michael,Feldgarden,PHD,,,,
+"",PEARLANNE,ZELARNEY,"","","","",""
+,Ann,Harrison,,Ms,,,
 Dr,Alida,Aska,MD ,Dr,,,
+,Shireen,Gonzaga,,Ms. ,,,
+,Sally,Spires,,,,,
+Mr.,Steven,Osterhout,,,,,
+"",Philip,Padgett,"","","","",""
+Mrs.,Linda,Shapiro,,,,,
+Mr,Miguel,Del Toral,,Mr,,,
 Dr,Mary-Frances ,O’Connor ,PhD,Professor,,,
 ,Kimberly,Yoak,,Mathematics specialist,,,
+"",Bernadette,Etienne,"","","","",""
 "",Tara,Downing,"","","","",""
+Ms.,Barbara,Jensen,,Ms,,,
+"",Elizabeth,Morgan,"","","","",""
 "",Julie,Aschenbrenner,"","","","",""
 "",Dina ,Strasser ,"","","","",""
 Mrs. ,Brittany,Dunaway,,,,,
 ,Tom,Duckwall,MBA,,,,
+"",Jean,Astorina,"","","","",""
+Mrs,Susan,Cornutt,PA-C,PA,,,
+"",Karen,Kunz,"","","","",""
+,DP,Ashby,,Engineering Manager ,,,
 ,Lisa,Farrar,,,Citizen ,,
 Ms,Debra,Ford,,,,,
 Mrs,Barbara,Del Rio,,,,,
@@ -152,25 +223,36 @@ Mrs,Barbara,Del Rio,,,,,
 "",Eleanor,Venskus,"","","","",""
 Dr,Sandra,Hewett,,Dr. ,,,
 Mrs,Christine,Wang,,,,,
+Dr. ,Katherine,Smith,PhD,Assistant Professor,,,
+Mr.,Carl,Dershem,,,,,
 ,Fredric ,Fairman ,,RN,,,
 Dr.,Gina,Roussos,,,,,
 Dr,Jennifer,Flo ,,Physician,,,
 "",Molly,Morris,"","","","",""
 "",Patricia ,Gordon,"","","","",""
+,Mary,Niang,,It Specialist,,,
+"",Rachel,Lidov,"","","","",""
 "",Emily ,Blanckenburg ,"","","","",""
 "",Shawn,Griffin,"","","","",""
 Mr.,Jake,Adkins,,Mr.,,,
+Mrs,Carrie,Lyons,,PTA,,,
 ,Jodi,Bailey,,Ms,,,
+Dr.,Rosa,Lafer-Sousa,PhD,Assistant Professor,Bethesda Declaration Signer,,
 "",Tamara,Riggs,"","","","",""
+,Susan,Stathoplos,"MBA, MSW",,,,
+,Alicia,Kimberlin,RN,Alicia Kimberlin,,,
+"",Amy,Nutig,"","","","",""
 Dr,Kelsey,Beavers,PhD,Research Associate,,,
 "",Veronica,Chollette,"","","","",""
 Mr,Keith,Mitchell,,,,,
 ,Lilibeth,Sanchez,"DO, MPH",Dr.,,,
+"",Lisa,Houlihan,"","","","",""
 Mrs.,Judith,Bean,,Mrs.,,,
 "",Barbara,Pearson,"","","","",""
 "",Sue,Goganian,"","","","",""
 Mrs,Natasha,Wing,,US citizen ,,,
 "",Nicole,Ernst,"","","","",""
+"",Kerry,Halligan,"","","","",""
 Ma.,Isabell,Leshko,,,,,
 Dr,Joseph,Graves,Jr,MacKenzie Scott Endowed Professor of Biology,North Carolina A&T State University,,
 Dr.``,Michael,Stock,PhD,Retired,,,
@@ -180,23 +262,40 @@ Dr.,Ian,Morgan,PhD,,Bethesda Declaration Signer,,
 Dr.,Jonathan,Glass,MD,Professor of Medicine emeritus,,,
 ,Michelle,Johnston,MPH,,,,
 Dr,Anna,Tischler,,,,,
+Dr.,Ekaterina,Heldwein,PhD,,,,
 "",Anna ,Roberts,"","","","",""
+,Madeline,White,,EMT,,,
 Dr.,Candace,Timpte,PhD,,,,
+Dr.,Leslie,Fine,,,,,
+Ms.,Margery,Pinson,,Ms,Retired from University of Texas Southwestern Medical Branch,,
+Ms.,Karen,Kraft,,,,,
+,Laura,Rogers,JD,,First Unitarian Portland,,
+Dr.,Joni,Lakin,PhD,Professor ,,,
 "",Sara,Derby-Ocon,"","","","",""
+Mrs.,Marilyn,Otroszko,,,,,
 "",Nancy,Sterngold,"","","","",""
+Ms.,Sandra,Portnoy,,Member American chemical Society,American Chemical Society,,
 "",Kate,Rawstron,"","","","",""
 ,Andrea,Medici,Esq.,,,,
 "",Jenifer K,Johnson,"","","","",""
 "",Trisha,Kostelny,"","","","",""
+Mrs,Sara,Crowley,,,,,
+"",Anna,Harper,"","","","",""
+"",Dawn,Bertrand ,"","","","",""
 "",Deborah ,Vidmar,"","","","",""
+"",Karen ,Petersen ,"","","","",""
 Ms,Jennifer,Nippert,,Associate Director,,,
+Ms,Lynne,Murrow,RPh,,,,
 Dr,Kathryn,Kerkering,MD,MD,,,
 "",Lucy,Christie,"","","","",""
 "",Kristin ,Fishburn ,"","","","",""
+"",Tim,Marflak,"","","","",""
+"",Melanie ,Vils,"","","","",""
 Ms,Veronica,Zifer,,Ms,,,
 "",Melanie,Miller,"","","","",""
 "",Katherine,Shepherd,"","","","",""
 Dr.,Jessica,Otis,PhD,Dr.,,,
+Dr.,Sarah ,Milkovich ,,Dr.,,,
 ,Miriam,Bassi,,Former USAID Diplomat,,Non-Profit,Activist
 Dr. ,Robin,Clark,MD,"Professor of Pediatrics, in Medical Genetics",Loma Linda University School of Medicine ,,
 "",Angela,Volcsko,"","","","",""
@@ -207,57 +306,88 @@ Dr.,Tracy,Sides,PhD,,,,
 ,Adrieanna,Hutson,,Disaster resilience attorney ,,,
 Dr.,Sharon,McDonnell,,,,,
 "",Carrie,Richardson,"","","","",""
+Ms,Heather,Ivy,,,,,
 ,Rebecca,Sanford DeRousie,PHD,,,,
 "",David,Hamrick,"","","","",""
+Dr.,David,Miller,PhD,Senior Researcher,American Institutes for Research (but do not speak on behalf of),,
 "",Sarasvati ,Spaur ,"","","","",""
 "",Tom,Wicker,"","","","",""
+Mrs.,Dawn,McQueen Shaw,,,,,
 Ms,Maureen,Stubblefield,,CA Certified Naturalist,Elder Coalition for Climate Action,,
 "",Kellie ,O'Loughlin ,"","","","",""
+Dr.,Elizabeth ,Hatch,PhD,Professor of Epidemiology ,,,
+Ms.,Kendra,Westervelt,,Ms ,,,
+Ms,Janice ,Singer ,"MA, MPH",Retired Sr VP of Operations for health quality nonprofit ,,,
 Dr,Deborah,Patrick,M.D.,Physician,Retired,,
 Ms.,Paula,Strawser,PHD,,,,
 Dr,Sara,Hargrave,PhD,,,,
 "",Anne,Park,"","","","",""
+,Kathryn,Marron,PhD,RIFFED Fed,,,
 Dr.,Sarah ,Pallas ,PhD,Professor ,,,
+Dr. ,Nigel,Goldenfeld,"Ph.D, FRS",Chancellor's Distinguished Professor of Physics,"University of California San Diego; Member, National Academy of Sciences (signing in personal capacity)",,
+Dr.,Jessica,Trinh,PhD,Postdoctoral Researcher,,,
 "",Charles,Howell,"","","","",""
 Dr.  ,Marie,Stoltzfus,PhD,,,,
 ,Peg,Gronemeyer,,"Senior Scientific Specialist, GIS",,,
+Dr. ,Gerhard,Sollner,PhD,,,,
+,Carol,Payne,RRT,Registered Respiratory Therapist ,,,
+"",Beth,Hoover,"","","","",""
 Dr.,Beate G,Liepert,,,,,
 Dr,Casey,Law,PhD,Scientist,,,
 "",Linda,Missler ,"","","","",""
 Dr.,Sara,Wolfson,,DNP APRN GNPBC,,,
 Ms,Suzanna ,Birchwood ,,,,,
+Mr,Wesley,Delk,,Emergency Management Director (Retired),,,
 ,Jennifer,Reed,,Ms,,,
 Mr. ,Albert,Kennedy,III,,,,
+,Jesse,Brunner,PhD ,Professor ,,,
 "",Angela,Beeson,"","","","",""
+Ms.,Ines,Kemper,,,,,
 "",Julia,Misplon,"","","","",""
 ,Sarah,Boim,,,Fired Bur Fighting,,
 Ms.,Araby,Parsons,,,,,
 Dr,Julia,Fine,PhD,Postdoctoral researcher,,,
+Dr.,Elizabeth,Bouldin,,,,,
 "",Hudson,Barthes,"","","","",""
+Mr,Dan,Hull,,,,,
 "",Desmond,Gholar,"","","","",""
 Ms,Phyllis,Rathbone,SSLE,Helene Survivor,,,
 ,Christopher,Williams,,Public Health Emergency Management Director ,Former USCG AUX ,,
 Ms.,Patricia,Fritz,"MS, BSN, RN",Adjunct Instructor,,,
 Dr.,Francis,Kent,PhD,Astronomer,,,
+Mr.,William,Dixon,,Former Nuclear Emergency Manager/Coordinator,State of Oregon and Hanford Nuclear Reservation,,
 "",Anna ,Daggett,"","","","",""
+Ms,Mary,Hernandez,,,,,
 Dr.,Heather,Tatusko Phiri,DNP,CNP,,,
 Mrs,Heather,Graber,,,,,
 Dr,Lisa,Gerhardt,,,,,
+Dr,V Lynn,Harvey,,Atmospheric scientist,,,
 "",Heather,Moe,"","","","",""
+"",Windy,Johnson ,"","","","",""
 Ms,Ruth,Davidowitz,,,,,
 Dr,Jonathan ,Burstein ,MD,Asst Professor,,,
 Dr,June,Griffin ,,,,,
+Dr. ,Sherryl,Goodman,PhD,Professor Emerita,Emory University,,
 "",Sharon,Walker,"","","","",""
+,Laurens,van der Tak,,Mr,,,
+,John,McLane,Ph.D.,,,,
 ,Amy,Ruck,,Mrs ,,,
+,Keisha,Long,,Citizen,,,
 Mr,Arthur,David,,,,,
 "",Helen,Carlton,"","","","",""
 "",Aliza,Furneaux,"","","","",""
+Mrs,Kelli,Coyle,,,,,
+,Katherine,Fogarty,"PE, LSP",Environmental Scientist,,,
 "",Pamela,Del Vecchio,"","","","",""
 Dr. ,Shiv,Prasad,PhD,Bethesda Declaration Signer ,,,
+"",Abby,Carney,"","","","",""
+"",Krissi,Woods,"","","","",""
 "",Linda,Frankel,"","","","",""
 Dr.,Tony,Buchanan,PhD,Professor,Saint Louis University,,
+"",Christina,Evans,"","","","",""
 ,Holly,Westbrook,,Chemist,,,
 "",John,Barrett,"","","","",""
+Dr.,Mike,conway,,Senior Research Scientist (retired),,,
 Mrs.,Jennifer,Llewellyn,,,,,
 "",David,Wagman,"","","","",""
 Dr.,Janet,Roen,,Dr.,,,
@@ -265,30 +395,45 @@ Dr.,Janet,Roen,,Dr.,,,
 Dr.,Frederick,Pough,PhD,Professor Emeritus,,,
 "",Richard,Hogen,"","","","",""
 Mr.,Mark,Barkan,,,,,
+"",Doe,Tabor,"","","","",""
 ,Joel,Weinstein,J.D.,Attorney ,,,
+"",Mara,Greengrass,"","","","",""
 "",Julie,Cassidy,"","","","",""
 Dr,Georgette,Gafford,,,,,
+Mr.,Jonathan,Crist,PhD,Adjunct Professor of Communication,,,
 ,erik,levin,,Engineering instructor,,,
+"",Sarah,Smith,"","","","",""
 ,Yolanda,DeLap,,Mrs,,,
+Dr.,Tara,Fischer,PhD,Research Fellow,NIH,,
 Ms.,Melanie,Townsend,,,,,
 Dr.,Ann,Miller,,,,,
 Dr.,Patricia,Harlow,Ph.D.,retired,,,
 Ms.,mary,pettigrew,,ms,,,
+"",Kerry,Sesil,"","","","",""
 "",Maureen ,Hennessey ,"","","","",""
 "",Mikaylyn,Barnett,"","","","",""
 MR,John,Roche,,MR,,,
+"",Olivia,Grace,"","","","",""
 Ms,Marsha,Obusek,,Substitute preschool teacher,,,
 "",Richard J.,Barbalace,"","","","",""
+Dr.,C,McGhee,PhD,Researcher,,,
 "",Kristin ,Anderson ,"","","","",""
 ,Latonya,Tripp,,Lead Behavior Scientist,,,
 "",Marianne,Sweet,"","","","",""
 "",Vincent,Vertuccio,"","","","",""
 "",Richard ,Jackman ,"","","","",""
+Mr.,Mike,Shaw,,,,,
 ,Mark,Finley,B.S.,,,,
+"",Amanda,McAdams,"","","","",""
 ,Allison,Walker,MPH,,,,
+Dr.,Hunter,Lovins,,,,,
 Ms,Michele,Baxter,,,health care,,
+"",Jennifer,Buchwald,"","","","",""
+,Steve,Wieland,PhD,Retired scientist,,,
+Mr,Blair,Camp,,Mr,,,
 ,Nancy,Asdigian,PhD,Dr.,,,
 Ms,Marie Elizabeth,Price,,,,,
+"",Rashunda,Lewis,"","","","",""
 Mr.,Thomas ,Cleary ,,,,,
 Ms.,Laura,Merriam,MSci,,,,
 "",Mindy,Tam,"","","","",""
@@ -296,6 +441,7 @@ Ms.,Laura,Merriam,MSci,,,,
 Dr.,Claire,Berlinski,Ph.D,,,,
 Ms,Chris,Blackburn,,,,,
 ,Torrey ,Stenmark,M.S.,,,,
+"",Nina,Daye,"","","","",""
 ,Sarah,Kobrin,"PhD, MPH",Bethesda Declaration Signer,,,
 Mr.,Benjamin,Ochshorn,,Mr.,,,
 ,Andrew,Carpenter,PhD,,,,
@@ -304,9 +450,12 @@ Dr.,Kate,Ramsey,Ph.D.,Dr.,,,
 "",Robert,Linde,"","","","",""
 Mr.,Adam,Silver,,,,,
 ,Troy ,Gibbs-Brown,MSc,,,,
+Dr.,Bennett,Alterman,,,,,
 "",Anna,Germaine,"","","","",""
 "",Michele,Tokash,"","","","",""
+,Seth,Yarden,LMT,LMT,,,
 Dr,Katie,Witkiewitz,,Distinguished Professor ,University of New Mexico ,,
+Dr.,Genevieve,Ritchie-Ewing,Ph.D.,Associate Professor,,,
 Dr.,John,Connolly,PhD,Senior Technical Advisor,"AnchorQEA, Inc.",,
 Dr.,Stephanie,Grady,PhD,Dr,,,
 "",Diane ,Van Boxel,"","","","",""
@@ -315,24 +464,30 @@ Dr,Marie,kuchynski-burdick,MD,Physician,,,
 "",David,Hughes,"","","","",""
 Dr.,Gabriele,Wampfler,,,,,
 Dr.,SiskoHelena,Kuivaniemi,"MD, PhD, FAHA, MASSAf",retired,,,
+,Wendy,Brawer,,Director,,,
 "",Mary,Lowry,"","","","",""
 "",Concerned,Citizen,"","","","",""
 Mr,Joe,Furnia,,,,,
+"",Sarah,Chong,"","","","",""
 Dr.,Courtnay,Scarborough,MD,MD,,,
 "",Heather,Westerfield,"","","","",""
 "",Arden,Donnelly,"","","","",""
 Mr,Matthew ,Dean ,,,,,
 "",Kathryn,Garrison,"","","","",""
+Ms.,Susan,Dale,,,,,
 ,Thom,Kennon,,Adjunct Professor,New York University,Academia,Educator
 Ms,Michelle,Curcio,,,,,
 ,EB,Dickinson,,Bethesda Declaration Signer,Bethesda Declaration Signer,,
 Ms,Deborah ,Mattei ,,,,,
+Dr. ,Tanner,Hoog,,,,,
 "",Elizabeth,Parker,"","","","",""
 "",Amanda,Amann,"","","","",""
 "",Barbara,BLACKMOND,"","","","",""
 "",Karen,Yurek,"","","","",""
+,Alyssa,Stansfield,Dr.,Assistant Professor,,,
 Mr,Bob,Glass,II,RETIRED,Male,,
 "",Noelle,Walters,"","","","",""
+"",Erica,Gallion,"","","","",""
 Mrs.,Mary,Schmidt,MA,,,,
 Mr.,Travis,Richardson,,,,,
 ,Nina,Friedman,,,Bethesda Declaration Signer,,
@@ -345,14 +500,21 @@ Ms.,Liz,Sample,,,,,
 "",Christopher,Glosson,"","","","",""
 Mr,William,Keelan,,,,,
 "",Jason,Sartin,"","","","",""
+Mrs,Lorraine ,Bell,,,,,
+Ms,Patricia,Harris,,Ms,,,
 Mr.,Jared,Smith,,,,,
 "",Kate,Keelan,"","","","",""
 ,Scott,Bassett,Esq.,Lawyer and Law Professor - Retired,,,
 Ms,Patty,McGown,,,,,
+Dr.,Sarah,Skinner,,,,,
 Dr.,Jeffrey,Bluestone,,CEO and Professor Emeritus,Sonoma Biotherapeutics and UCSF,,
 "",Lynn,Smith,"","","","",""
+"",Chris,Learish,"","","","",""
 ,Sandy,Klein,,Artist,,Arts / Entertainment,Activist
+"",Jillian,Sauers,"","","","",""
 "",Monique,King-Viehland,"","","","",""
+Ms,Karen,Tallman,RN,,Retired,,
+"",Sherry,Obradovich,"","","","",""
 Prof.,Agustin,Fuentes,,Professor fo Anthropology,Princeton University,,
 Captain,Alysia,Johnson,,Citizen,Small business owner and mariner,,
 ,Darrell,Stevens,,Mr.,,,
@@ -362,8 +524,10 @@ Captain,Alysia,Johnson,,Citizen,Small business owner and mariner,,
 Mr.,Nathaniel,Brought,,"Former Director, NIH ES",,,
 "",Trevor,Reddig,"","","","",""
 Ms.,Caroline,Luft,,graduate student,CUNY,,
+,Matthew,Miller,,Chief,"Hazards Study Branch, FEMA (retired)",,
 Ms.,Katherine,Hale,MS,"Senior Analyst, NSF (retired)",,,
 Miss,Mary,Jarman,,,,,
+Dr,David,Jackson,,,,,
 Mr,Scott,Buchner,,,,,
 "",Catherine,Collins,"","","","",""
 MS,Karen,Porter,,,,,
@@ -372,15 +536,19 @@ MS,Karen,Porter,,,,,
 Dr.,Scott,Chasalow ,PhD,Dr,,,
 "",Roger,Gibson,"","","","",""
 "",Sara,Imshaug,"","","","",""
+Mr. ,Brian,Hall,,Retired Military,,,
 Dr,Sharon,Berry,PhD,Clinical psychologist,,,
 "",Ryan,Valle,"","","","",""
+"",Joanie,Deis,"","","","",""
 "",Carol ,Fortman ,"","","","",""
+,Conor,Bernoski,,,,,
 "",Vicki,Guiel,"","","","",""
 Dr. ,Robert,Turner,Ph.D,Professor of Economics and Environmental Studies Emeritus ,,,
 ms,Nancy,levin,,,,,
 "",Joy,Clark,"","","","",""
 "",Ailsa,Hermann-Wu,"","","","",""
 "",Carol,Holmes,"","","","",""
+Ms,Carol,Kuelper,,,,,
 "",Kate,Hermann-Wu,"","","","",""
 ,Amy,Merrill,,Mathematical Statistician,,,
 "",Peggy,O'Neal,"","","","",""
@@ -388,24 +556,36 @@ Dr,Pria,Williams,,Instructional Associate Professor,,,
 ,Bailey,Lockwood,,Mrs,,,
 MS,Anne,Diedrich,"MS,MFT",Owner,Business owner,,
 "",Amanda,Bennett,"","","","",""
+Ms.,Lois,Cote,MA,retired therapist,child and family therapy,,
 "",Laura,Chevalier,"","","","",""
 "",Emma,H,"","","","",""
 Ms.,Emily,Baker,,,,,
 Mr.,Michael,Walker,,Citizen,,,
 ,Brynn,Paulsen,M.A.,,,Academia,Student
 Ms. ,Edie,"Schaffer, JD, CEM ",,,,,
+,Kelly,Rogers,PhD Student,,University of Minnesota,,
 "",Sharon,Kasow,"","","","",""
+,Steven,Buckley,Esq.,,,,
 Ms,Mary,Boyle,,,,,
+Ms,Margaret,Doyle,,,,,
+Dr.,Valerie,Barr,PHD,Professor of Computer Science,Bard College,,
 Dr.,Thomas,Rodebaugh,PhD,Dr,,,
 Ms,Monica,Falkin,MPH,Ms,,,
 Ms,Nora,Lowe,,Ms.,,,
+,Ate,Visser,PhD,Researcher Earth Sciences,,,
+MRS,Vanessa,Serna,,"",,,
 ,Michael,Pasqua,,Life Scientist,,,
+,Ams,Evans,CCRP,CCRP,,,
+Mr.,Luc,Puis,,,,,
 "",Jillian,Vinci,"","","","",""
 Ms,Karen,Rowe,,Ms,,,
+Prof.,Matthew,Lew,PhD,Prof.,Washington University in St. Louis,,
 Prof.,Oscar,Suarez,PhD,Professor,University of Puerto Rico - Mayaguez,,
 "",Stella,Goulopoulou,"","","","",""
 ,Lorraine,Stanton,,Ms.,,,
 "",Elizabeth,Gilmore,"","","","",""
+"",Charles,Hargrave,"","","","",""
+Dr,Bernadette ,Rodgers,,,,,
 Dr,Nicole,Carter,Dr,Dr,,,
 "",Maximilian,Freedom,"","","","",""
 ,Jill,Warrington,,,Senior Citizen,,
@@ -413,12 +593,17 @@ Dr,Nicole,Carter,Dr,Dr,,,
 ,Travis,Dorough,,,Concerned Citizen,,
 "",Jesse,Martin,"","","","",""
 "",Carmelita,Becnel,"","","","",""
+Ms,Katherine ,Anderson ,,,,,
 Rev.,Tricia,Dykers Koenig,,,,,
+Dr.,Michael,Schwartz,Ph.D.,,University of Wisconsin-Madison,,
 ,Laurent,Riou,Mechanical Engineer,,IP2I (UMR 5822),,
 "",Maureen ,Esposito ,"","","","",""
+Ma,L,Windham,,Ms,,,
 ,Samantha ,Herman ,,Graduate Student Researcher,UCLA,,
 "",Aaron,Stabbert,"","","","",""
 "",Megan,Kopera,"","","","",""
+,Sarah,Fox,,,FEMA,,
+,Gentrea,Hendrickson,MPH,,,,
 Dr.,Hunter,Snoderly,PhD,,,,
 "",William,Barrett,"","","","",""
 Dr,Asha,Storm,PhD,Bethesda Declaration signer,Bethesda Declaration signer ,,
@@ -428,6 +613,7 @@ Mx.,Jamie,Monahan,,,,,
 "",Charles,Campbell,"","","","",""
 Mrs.,Barbara,Marks,,Mrs,,,
 Dr.,Rachel,Rozum,PHD,Dr,,,
+Dr.,Elizabeth,Ruark,DVM,,,,
 "",Kathleen,Kenny,"","","","",""
 Dr. ,Brian,Lovett,,Insect Pathologist,Cornell University,Academia,Scientist
 "",Alexander,Laufer,"","","","",""
@@ -436,17 +622,25 @@ Dr. ,Brian,Lovett,,Insect Pathologist,Cornell University,Academia,Scientist
 Dr.,Robyn,Fivush,,Professor Emerita,Emory University,,
 "",Ricky,Schwartz,"","","","",""
 "",Dianna,Banka,"","","","",""
+,Mindi,Ramsey,,Non-Traditional Student,,,
 "",Dustin,Duvall-Black,"","","","",""
+"",David,Kunz,"","","","",""
 Dr,Cathy,Savage-Dunn,PhD,Professor,,,
+Dr.,Elisabeth,Larson,PhD,Dr.,,,
 Dr,TR,K.,Ugg,Writer ,,,
 ,Efose,Oriaifo,,Teaching/Research Assistant,,,
 "",Aziz,Delawalla,"","","","",""
+Dr,Catherine,Couturier,PhD,Professor,,,
 Pr.,Christel,MULLER,PhD,Professor of History,Paris Nanterre University,,
 Dr,Jason,Sylvan,PhD,Associate Professor,Texas A&M University,,
 Dr.,Fran,Kaplan,,Dr.,Nurture LLC,,
 Dr. ,Nickole,Moon,PhD,,University of Colorado Anschutz Medical Campus,Academia,Student
+,K,Hargrave ,,Citizen ,,,
 "",William,Horka,"","","","",""
+"",Madison,Fyan,"","","","",""
 Dr,Samarth,Hegde,Ph.D.,Mr,,,
+,Kelly,Feehely,,Miss,,,
+Dr.,Louise,Simone,DLS,,,,
 Ms.,D,B,,,,,
 ,Jessa,Blount,MS,Ms.,,,
 ,Jacqueline,Reynolds,,Ms.,,,
@@ -454,17 +648,24 @@ Ms.,D,B,,,,,
 "",Juan,Rubin,"","","","",""
 Professor,Rachel,Holladay,PhD,Assistant Professor,,,
 Dr. ,Nick,Denton,PhD,Senior Lecturer ,,,
+Dr,Corina,Logan,PhD,Dr,,,
 ,Silvia,Aldana,,Teacher,,,
 "",Brennan,Galvin,"","","","",""
 "",Laure,Vélu,"","","","",""
 ,Jessika,Jackson,,Citizen ,Spelman College,Non-Profit,Citizen
 "",Billington ,Jen,"","","","",""
+"",Kristin,Thigpen,"","","","",""
+Dr,David,Leavitt,MD,Dr ,,,
 ,Ella,Kaplan,,,NASA (Global Science and Technology Inc.),,
+,Vani,Singh-Rooker,,,Former FEMA Employee,,
 "",Patrick,Yeatman,"","","","",""
 "",Timothy,Kirk,"","","","",""
 Dr.,Francis,Verbeeck,,,,,
+,Cinthya,Osuna,,Chemist,,,
 Mr.,Alex,Haltom,,,,,
+"",Rachael,Chappell,"","","","",""
 "",M,McKenna ,"","","","",""
+"",Andrew,Jolly,"","","","",""
 "",Kristina,Zanić,"","","","",""
 "",Kobe,Moore,"","","","",""
 "",Jonathan,Kastin,"","","","",""
@@ -491,3 +692,12 @@ Dr,Gerardo,Cisneros,,,,,
 "",Evgueni,Kovriguine,"","","","",""
 "",David,Ricci,"","","","",""
 "",Cathie,Ryan,"","","","",""
+,Victoria,Sinnett,LE,,Personal ,,
+"",Paul,Peterson,"","","","",""
+,Griffin,Thomson ,,Graduate Researcher,,,
+"",Jeannie,Bagley,"","","","",""
+,Lain,Hughes,,History Teacher,,,
+,Kris,Minard,,,Citizen voter,,
+"",Samuel,Bass,"","","","",""
+"",Kari,Palmer,"","","","",""
+,Phinn,Markson,,,Ohio state University ,,
